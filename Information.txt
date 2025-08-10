@@ -1,0 +1,22 @@
+DISCLAIMER – PLEASE READ
+
+This project was created as a personal hobby and learning experience, not as a professional or commercial drone build.
+
+The included file "DroneLab.docx" is a sarcastic 'lab report' written for fun.  
+It details the process of building the drone, including all the mistakes, failures, and unexpected problems — often in a humorous way.
+
+Nothing in the lab report should be taken as formal engineering documentation or best practices.  
+The code and design choices reflect experimentation and learning, not production-ready engineering and in no way should be perceived as good code.
+
+If you’re here to learn or replicate the project:
+- You are welcome to use the code and ideas, but understand that it’s a hobbyist-level project.
+- No guarantees are made regarding safety, reliability, or compliance with any regulations.
+- Fly safe and follow all local drone laws.
+- Make sure you have a good frame otherwise the drone will not fly.
+
+Enjoy the build and have fun — that’s what this project was about.
+
+
+Other:
+
+Safety was taken into consideration for all testing and I have a hobbyist drone flying permit please make sure you do the same if testing or flying any drone. (TRUST test)

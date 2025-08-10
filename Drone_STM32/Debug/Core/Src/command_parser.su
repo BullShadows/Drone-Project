@@ -1,0 +1,3 @@
+../Core/Src/command_parser.c:22:6:CommandParser_Init	8	static
+../Core/Src/command_parser.c:29:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/command_parser.c:56:6:CommandParser_Update	96	static

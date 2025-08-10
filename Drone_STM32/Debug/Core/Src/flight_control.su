@@ -1,0 +1,2 @@
+../Core/Src/flight_control.c:27:6:FlightControl_Init	8	static
+../Core/Src/flight_control.c:38:6:FlightControl_UpdateMotors	56	static
