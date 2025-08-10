@@ -20,3 +20,5 @@ Enjoy the build and have fun — that’s what this project was about.
 Other:
 
 Safety was taken into consideration for all testing and I have a hobbyist drone flying permit please make sure you do the same if testing or flying any drone. (TRUST test)
+
+Initial failed test with a cardboard frame: https://youtube.com/shorts/KvLbtWVPS-w?feature=share
